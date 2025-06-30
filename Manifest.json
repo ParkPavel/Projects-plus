@@ -1,0 +1,11 @@
+{
+  "id": "projects-plus",
+  "name": "Projects Plus",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Современный визуальный проектный менеджер для Obsidian. Улучшенная версия obsidian-projects с расширенными возможностями, современным дизайном и интуитивным UX.",
+  "author": "Pavel Park",
+  "authorUrl": "https://parkpavel.github.io/park-pavel/",
+  "fundingUrl": "https://github.com/ParkPavel/Projects-plus",
+  "isDesktopOnly": false
+}
